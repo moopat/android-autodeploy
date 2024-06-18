@@ -1,4 +1,7 @@
 # android-autodeploy
+
+*While this approach was very useful to me with Android 2.x, those times are long gone. This project is deprecated and no longer maintained.*
+
 Install an application to an Android device by just plugging it into your computer. This is useful when you face the task of installing an application on a lot of devices (50+) and other options are not available for some reason.
 
 ## Requirements
